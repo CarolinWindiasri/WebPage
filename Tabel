@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+</head>
+
+<!-- memberi warna aqua di body -->
+<style type="text/css">
+<!--
+.BIODATA {
+  font-family: Comic Sans MS, cursive;
+}
+
+.NAMA {
+	font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+}
+-->
+</style>
+<body bgcolor="green">
+<p align="center"><b><font color="red" size = 15> 
+<blink> <span class="Tabel Curriculum Vitae"><strong>Tabel Curriculum Vitae</strong></span></blink></font>
+
+<p align="center"><font color="white" size = 6>
+<marquee class="NAMA">
+Carolin Windiasri 110533430574 S1 PTI 2011 Off C
+</marquee>
+</font>
+
+<p>&nbsp;</p>
+  <tr>
+    <td><table width="991" border="4" cellspacing="2" bordercolor="white">
+      <tr>
+        <td><table width="991" border="4" cellspacing="2"bordercolor="blue">
+          <tr>
+            <td width="171"><strong><font color="white">NAMA</strong></td>
+            <td colspan="4"><em>Carolin Windiasri</em></td>
+          </tr>
+          <tr>
+            <td><strong><font color="white">NIM</strong></td>
+            <td colspan="4"><em>110533430574</em></td>
+          </tr>
+          <tr>
+            <td><strong><font color="white">TTL</strong></td>
+            <td colspan="4"><em>Karangnyar, 2 Agustus 1993</em></td>
+          </tr>
+          <tr>
+            <td><strong><font color="white">ALAMAT</strong></td>
+            <td colspan="4"><em>Mekarasri RT 02/I, Popongan, Kabupaten Karanganyar, Surakarta</em></td>
+          </tr>
+          <tr>
+            <td><strong><font color="white">JURUSAN</strong></td>
+            <td colspan="4"><em>S1 Pendidikan Teknik Informatika / Jurusa Teknik Elektro / Fakultas Teknik / Universitas Negeri Malang</em></td>
+          </tr>
+          <tr>
+            <td><strong><font color="white">E-MAIL</strong></td>
+            <td colspan="4"><em>soul_gooners@yahoo.com</em></td>
+          </tr>
+          <tr>
+            <td colspan="5"><div align="center"><strong><font color="red">RIWAYAT PENDIDIKAAN</strong></div></td>
+          </tr>
+          <tr>
+            <td width="174"><div align="center"><strong><font color="blue">SD</strong></div></td>
+            <td width="180"><div align="center"><strong><font color="blue">SMP</strong></div></td>
+            <td width="223"><div align="center"><strong><font color="blue">SMA</strong></div></td>
+            <td width="203"><div align="center"><strong><font color="blue">KULIAH</strong></div></td>
+          </tr>
+          <tr>
+            <td><div align="center">SD Negeri 1 Popongan</div></td>
+            <td><div align="center">SMP Negeri 1 Karanganyar</div></td>
+            <td><div align="center">SMA Negeri Karangpandan</div></td>
+            <td><div align="center">Universitas Negeri Malang</div></td>
+          </tr>
+          
+        </table>          <strong></strong></td>
+      </tr>
+    </table>      <strong></strong></td>
+  </tr>
+</table>
+
+  
+</body>
